@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\perss\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\perss\\.nuget\\packages"
+    ]
+  }
+}
